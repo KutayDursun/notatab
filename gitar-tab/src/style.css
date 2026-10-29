@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tab-container {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 600px;
+}

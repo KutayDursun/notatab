@@ -1,0 +1,25 @@
+{
+  "name": "gitar-tab",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@coderline/alphatab": "^1.8.4",
+    "musicxml-io": "^0.12.2",
+    "pitchy": "^4.1.0",
+    "tutts": "^0.1.0",
+    "tutts-alphatab": "^0.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^3.4.19",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.5"
+  }
+}

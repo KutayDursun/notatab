@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@coderline/alphatab": "^1.8.4",
+    "musicxml-io": "^0.12.2",
+    "tutts": "^0.1.0",
+    "tutts-alphatab": "^0.1.0"
+  },
+  "devDependencies": {
+    "@coderline/alphatab-vite": "^1.8.4"
+  }
+}
